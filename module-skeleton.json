@@ -1,0 +1,15 @@
+{
+  "repository": "module-social-network-social-graph-dart-desktop",
+  "capabilityKey": "liberusoftware/module-social-network-social-graph",
+  "presentation": "dart-desktop",
+  "package": "module_social_network_social_graph_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/social-network/nextjs/social-graph.md",
+  "presentationPlan": "projects/social-network/features/social-graph.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "social-network"
+  ]
+}

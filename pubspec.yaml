@@ -1,5 +1,5 @@
-name: module_boilerplate_dart_desktop
-description: Liberu Dart · Desktop reusable module foundation.
+name: module_social_network_social_graph_dart_desktop
+description: "Social Graph Dart \u00b7 Desktop presentation skeleton."
 version: 0.1.0-dev.1
 publish_to: none
 environment:
